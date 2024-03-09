@@ -1,4 +1,4 @@
-
+#  @pratikparbhane96 GITHUB accoount
 
 import cv2
 import numpy as np
@@ -6,7 +6,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-path = r'C:\Users\PRATIK\OneDrive\Desktop\fcr\known_faces\known_face_directory'
+path = r'C:\Users\PRATIK\OneDrive\Desktop\fcr\known_faces\known_face_directory' #give the path of the file
 images = []
 classNames = []
 myList = os.listdir(path)
